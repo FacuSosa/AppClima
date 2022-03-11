@@ -1,6 +1,6 @@
 # AppClima
 APP DE CLIMA DONDE APLICO LOS SIGUIENTES TEMAS: 
-*NAVEGACION ENTRE ACTIVIDADES
-*USO DE INTENTS
-*PERSONALIZACION DE ELEMENTOS
-*MANEJO DE OBJETOS
+*Navegación entre actividades
+*Uso de intents
+*Personalizacion de elementos
+*Manejo de objetos
